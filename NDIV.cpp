@@ -3,10 +3,10 @@ using namespace std;
 #define ll long long int
 #define mod 1000000007
 #define pb push_back
-
+ 
 ll prime[32000];
 vector<ll> pr;
-
+ 
 void sieve()
 {
 	ll i,j;
@@ -57,7 +57,7 @@ void sieve()
 //    // 	cout<<prime[i]<<endl;
 //    // }
 }
-
+ 
 int main()
 {
 	sieve();

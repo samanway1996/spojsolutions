@@ -1,4 +1,4 @@
-             /* #samanwaydey #cse  #ismdhanbad  PROBLEMS
+ /* #samanwaydey #cse  #ismdhanbad  PROBLEMS
  STATUS
  RANKS
  DISCUSS
@@ -7,7 +7,6 @@ CONTESTS
 Problems  Hash it! My submissions  Not hidden submissions All submissions
 samanway1996: submissions
 Hash it!
-
  
 ID		DATE	PROBLEM	RESULT	TIME	MEM	LANG
 16894111		2016-05-10 15:22:22	Hash it!	runtime error (SIGABRT)
@@ -15,7 +14,7 @@ edit    ideone it
 0.00	3.4M	C++14
 Invert 
 Selected submissions:   Execute  ?
-×
+Ã?
 Source code 16894111
 SPOJ submission 16894111 (C++14) plaintext list. Status: RE, problem HASHIT, contest SPOJ. By samanway1996 (samanway1996), 2016-05-10 15:22:22.*/
 #include"bits/stdc++.h"
@@ -124,5 +123,4 @@ int main()
 			}
 		}
 	}
-} 
-
+}
